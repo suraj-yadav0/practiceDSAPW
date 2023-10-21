@@ -4,94 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5f9601e-d294-42ef-95f1-3515f9d78234" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PwSkills.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BruteForce/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BruteForce/findUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BruteForce/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/FourthDay/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/FourthDay/swaastic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/FourttenthDay/MultiplyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/Sept7/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/Sept7/pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/Sept7/special.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/SeventhDay/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/SeventhDay/RotateBoundries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/SeventhDay/SpiralTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/SixthDay/PatternQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/SixthDay/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/SixthDay/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/ThirdDay/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/ThirdDay/question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/fifthDAy/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/float_input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/primeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/remove_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/firstday/specific_smallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/secondDay/compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/secondDay/pivot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/College_Java/secondDay/rotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemOnSorting2/Questio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemOnSorting2/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemOnSorting2/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnSearcching/FindSmallstInRotated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnSearcching/duplicate_searching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnSearcching/findTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnSorting/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnSorting/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemsOnSorting/first.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuestionsOnString/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuestionsOnString/ToggleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Array/FindAllIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Array/linearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/EulcidGCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Kmultiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/String/class38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/String/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/String/reverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/alternateSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/pow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/powe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/subsequence/ReturnSubsequenc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/subsequence/SumSSQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/subsequence/printSSQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/sumInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionOnArray/GreaterNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionOnArray/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionOnArray/SumOFArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/basic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/stringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/toogle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/FirstOcuurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/recursiveBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searching/squreroot.java" afterDir="false" />
+    <list default="true" id="d5f9601e-d294-42ef-95f1-3515f9d78234" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/StudentClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,9 +51,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionsOnString.Palindrome" />
+  <component name="RunManager" selected="Application.Implementation">
+    <configuration name="Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.Implementation" />
+      <module name="PwSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuestionsOnString.StringComparison" />
       <module name="PwSkills" />
       <extension name="coverage">
         <pattern>
@@ -146,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToggleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuestionsOnString.ToggleString" />
+    <configuration name="StudentClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.StudentClass" />
       <module name="PwSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuestionsOnString.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.findUnique" />
+    <configuration name="StudentClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.StudentClass" />
       <module name="PwSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,25 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.substring" />
+    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.basic" />
       <module name="PwSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="toogle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.toogle" />
-      <module name="PwSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ToggleString" />
-        <item itemvalue="Application.toogle" />
-        <item itemvalue="Application.findUnique" />
-        <item itemvalue="Application.substring" />
+        <item itemvalue="Application.Implementation" />
+        <item itemvalue="Application.basic" />
+        <item itemvalue="Application.StudentClass (1)" />
+        <item itemvalue="Application.StudentClass" />
+        <item itemvalue="Application.StringComparison" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +136,28 @@
       <option name="presentableId" value="Default" />
       <updated>1679241507000</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1697804762832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697804762832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1697884707722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697884707722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
